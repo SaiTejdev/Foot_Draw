@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T08:30:15.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="88Y4HoalT3At3gFxxRP0" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T08:43:15.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="gfTvPiWLDCTZMmVOzTlO" version="21.7.5" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="gitflow">
-    <mxGraphModel dx="840" dy="1030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="735" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -436,26 +436,26 @@
         <mxCell id="zETWnQQV9wwEFKSfop4r-187" value="Tag&lt;br&gt;0.1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=east;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="133" y="-68" width="87" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="zETWnQQV9wwEFKSfop4r-188" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Severe bug fixed for production&amp;nbsp;&lt;br&gt;hotfix 0.2&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-68" width="178" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="zETWnQQV9wwEFKSfop4r-189" value="Only Bugs" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="262" y="340" width="108" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zETWnQQV9wwEFKSfop4r-190" value="Start of release branch for 1.0" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="442" y="415" width="135" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="zETWnQQV9wwEFKSfop4r-191" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Incorporate bugfix in develop&lt;br&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="159" y="530" width="148" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="zETWnQQV9wwEFKSfop4r-192" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=20.5;exitDy=178;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zETWnQQV9wwEFKSfop4r-188" target="FDRWWzNf12pBNZbJ33nD-349">
+        <mxCell id="zETWnQQV9wwEFKSfop4r-192" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zETWnQQV9wwEFKSfop4r-193" target="FDRWWzNf12pBNZbJ33nD-349">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="210" as="sourcePoint" />
+            <mxPoint x="539.9999999999995" y="-58.50000000000023" as="sourcePoint" />
             <mxPoint x="460" y="160" as="targetPoint" />
             <Array as="points">
               <mxPoint x="520" y="10" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zETWnQQV9wwEFKSfop4r-193" value="Severe bug fixed for production hotfix 2.0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-69" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zETWnQQV9wwEFKSfop4r-197" value="Start of release branch for 1.0" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=east;fillColor=#ffe6cc;strokeColor=#d79b00;position2=0.5;size=42;position=0.43;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="78" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zETWnQQV9wwEFKSfop4r-199" value="Start of release branch for 1.0" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=east;fillColor=#ffe6cc;strokeColor=#d79b00;position2=0;size=29;position=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-40" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
