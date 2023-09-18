@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T10:03:29.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="LJ5rG3VRBPT1-JioG2SA" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T10:03:48.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ngyI3YIvMRamaPspAIud" version="21.7.5" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="gitflow">
     <mxGraphModel dx="777" dy="1078" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -505,7 +505,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rCtXrqLqw_GZ2IyYDO6F-87" value="Bugfixes from &lt;b&gt;rel.branch&lt;/b&gt; may be continuously merged back into &lt;b&gt;developed&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="rCtXrqLqw_GZ2IyYDO6F-87" value="Bugfixes from &lt;b&gt;rel.branch&lt;/b&gt; may be continuously merged back into &lt;b&gt;developed&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="853" y="365" width="190" height="75" as="geometry" />
         </mxCell>
         <mxCell id="rCtXrqLqw_GZ2IyYDO6F-88" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rCtXrqLqw_GZ2IyYDO6F-87">
